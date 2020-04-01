@@ -1,4 +1,4 @@
-### Analyzing Weather Data using an API
+# Analyzing Weather Data using an API
 
 ## Part 1 - WeatherPy 
 
