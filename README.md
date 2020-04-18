@@ -36,3 +36,4 @@ First, we create a heatmap. Next, we specified our ideal weather conditions and 
 Next, we use Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
 Lastly, we plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+
