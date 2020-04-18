@@ -1,5 +1,7 @@
 # Analyzing Weather Data using an API
 
+<img src="https://www.mapsofworld.com/style_2019/images/world-best-continents-map.jpg" width="1000" height="400">
+
 ## Part 1 - WeatherPy 
 
 Objective: We created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
