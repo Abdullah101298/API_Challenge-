@@ -24,7 +24,7 @@ Next, we ran a linear regression to showcase the correlation between
     (7) Northern Hemisphere - Wind Speed (mph) vs. Latitude
     (8) Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-<img src= "https://rice.bootcampcontent.com/Rice-Coding-Bootcamp/RU-HOU-DATA-PT-12-2019-U-C/raw/master/Homework/06-Python-APIs/Instructions/Images/heatmap.png" width="1000" height="400">
+<img src= "https://github.com/Abdullah101298/Analyzing_Weather_Data/blob/master/Images/heatmap.png?raw=true" width="1000" height="400">
 
 
 ## Part 2 - VacationPy 
