@@ -37,4 +37,4 @@ Next, we use Google Places API to find the first hotel for each city located wit
 
 Lastly, we plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
-<img src= "https://github.com/Abdullah101298/Analyzing_Weather_Data/blob/master/Images/heatmap.png?raw=true" width="1000" height="400">
+<img src= "https://github.com/Abdullah101298/Analyzing_Weather_Data/blob/master/Images/hotel_map.png?raw=true" width="1000" height="400">
